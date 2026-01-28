@@ -1,1 +1,1 @@
-# Jones Jonson
+# Project scope for a CAD time activity management system.
