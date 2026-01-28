@@ -1,1 +1,1 @@
-# Project scope for a CAD team activity management system.
+# Project scope for a CAD app team activity management system.
